@@ -10,7 +10,7 @@ This project demonstrates a complete **Data Warehousing and Analytics** solution
 
 The project follows the **Medallion Architecture** approach with **Bronze**, **Silver**, and **Gold** layers.
 
-![Data Architecture](docs/images/data_architecture.png)
+<img width="1171" height="601" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/8114e83d-9716-4b18-a8bd-a7c3f100968a" />
 
 ### Bronze Layer
 - Stores raw data exactly as received from source systems.
