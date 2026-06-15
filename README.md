@@ -109,13 +109,13 @@ Develop SQL-based analytics to provide insights into:
 These insights support data-driven decision-making and business growth.
 
 
-```
-
----
 
 ## 📂 Repository Structure
 
-```text
+```
+
+---
+text
 data-warehouse-project/
 │
 ├── datasets/
