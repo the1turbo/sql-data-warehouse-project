@@ -108,10 +108,7 @@ Develop SQL-based analytics to provide insights into:
 
 These insights support data-driven decision-making and business growth.
 
-For detailed requirements, see:
 
-```text
-docs/requirements.md
 ```
 
 ---
